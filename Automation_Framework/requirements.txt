@@ -1,0 +1,4 @@
+# Requirements needed to start working with Robot frame work with this project
+# on machine
+
+robotframework >= 3.1.1
